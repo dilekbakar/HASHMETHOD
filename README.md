@@ -1,0 +1,2 @@
+# HASHMETHOD
+Encrypt/Decrypt
